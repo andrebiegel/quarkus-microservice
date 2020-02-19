@@ -16,9 +16,9 @@ Was build upon https://github.com/AdamBien/quarkee-archetype
 ./buildNativeContainer.sh
 ```
 
-![Startup time](images/startup.PNG)
+![Startup time](images/startup.png)
 
 Be carefull the docker build is hungry. If it has RuntimeExceptions with exitcode 137 , it needs more memory.
-![usage](images/usage.PNG)
+![usage](images/usage.png)
 
 
