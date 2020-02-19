@@ -1,0 +1,1 @@
+docker build -f src/main/docker/multistage.Dockerfile -t andrebiegel/quarkus-microservice . && docker run -i --rm -p 8080:8080 andrebiegel/quarkus-microservice
